@@ -20,3 +20,4 @@ To run this project, you need a modern web browser that supports JavaScript.
    ```bash
    git clone git@github.com:dilushamadushan/ToDo-List-Js.git
 2. Open the `index.html` file in your web browser.
+
